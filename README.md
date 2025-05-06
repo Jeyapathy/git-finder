@@ -1,6 +1,3 @@
-# git-finder
-A simple GitHub user finder website that lets you search for profiles and view their public repositories
-
 # GitHub Finder
 
 A simple random git finder and responsive web app to search GitHub users and view their profiles, repositories, and followers using the GitHub API.
